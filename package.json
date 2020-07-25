@@ -1,0 +1,11 @@
+{
+  "name": "sd-cleaner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tim Anido",
+  "license": "MIT",
+  "dependencies": {
+    "drivelist": "^9.0.2",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
